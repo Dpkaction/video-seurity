@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Video Encryption & Authenticity Platform",
+  "description": "A fully client-side web app for content authenticity verification and secure retrieval using the Web Crypto API. Generate keys, encrypt videos with a hash fingerprint, and decrypt them securely, all within your browser. No backend, no uploads, 100% private.",
+  "requestFramePermissions": []
+}
